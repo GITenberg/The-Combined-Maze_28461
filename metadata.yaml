@@ -1,0 +1,30 @@
+_repo: The-Combined-Maze_28461
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28461-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sinclair, May
+    alias: Sinclair, Mary Amelia St. Clair
+    birthdate: 1863
+    deathdate: 1946
+    gutenberg_agent_id: '3004'
+    url: http://www.gutenberg.org/2009/agents/3004
+    wikipedia: http://en.wikipedia.org/wiki/May_Sinclair
+description: ''
+gutenberg_issued: '2009-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28461'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Married people -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'London (England) -- Fiction'
+title: The Combined Maze
+url: http://www.gutenberg.org/ebooks/28461
